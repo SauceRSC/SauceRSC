@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Saucedo (Sauce)</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=1A5FA1&center=true&vCenter=true?size=30&lines=Computer+Science+Student">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=40&color=1A5FA1&center=true&vCenter=true&width=600&lines=Computer+Science+Student">
 </p>
 <h3 align="center">I'm a junior CS student, graduating in June 2023</h3>
 
