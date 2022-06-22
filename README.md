@@ -1,4 +1,4 @@
-ppp<h1 align="center">Hi 👋, I'm Rodrigo Saucedo (Sauce)</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Saucedo (Sauce)</h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=1A5FA1&center=true&vCenter=true&lines=Computer+Science+Student">
 </p>
